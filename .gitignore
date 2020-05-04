@@ -40,3 +40,4 @@ highlights/package-lock.json
 *.sublime-workspace
 /.env
 atlassian-ide-plugin.xml
+/venv/
